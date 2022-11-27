@@ -1,0 +1,9 @@
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\bin\Debug\NivelAccesDate.dll
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\bin\Debug\NivelAccesDate.pdb
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\bin\Debug\LibrarieModele.dll
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\bin\Debug\LibrarieModele.pdb
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\obj\Debug\NivelAccesDate.dll
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\DataAccessLayer\obj\Debug\NivelAccesDate.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7731e6d-344e-4b30-9ae3-ab37fe499a01": {
+      "ProjectGuid": "d7731e6d-344e-4b30-9ae3-ab37fe499a01",
+      "DisplayName": "InterfataUtilizator",
+      "ColorIndex": 0
+    },
+    "fbe4d4f6-6900-4718-aa88-66b5396f7d3f": {
+      "ProjectGuid": "fbe4d4f6-6900-4718-aa88-66b5396f7d3f",
+      "DisplayName": "NivelAccesDate",
+      "ColorIndex": 1
+    },
+    "8a468be5-c3b3-4d70-9a48-59a08e84db96": {
+      "ProjectGuid": "8a468be5-c3b3-4d70-9a48-59a08e84db96",
+      "DisplayName": "LibrarieModele",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

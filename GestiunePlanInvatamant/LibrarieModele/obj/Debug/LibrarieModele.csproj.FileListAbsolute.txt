@@ -1,0 +1,5 @@
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\LibrarieModele\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Emanuela\Desktop\de incarcat\GestiunePlanInvatamant\LibrarieModele\obj\Debug\LibrarieModele.pdb
